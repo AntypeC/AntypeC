@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/antypec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antypec" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14818129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14818129" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/antypec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="antypec" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2lDvBeo9kdm2bOsLXxKP9w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="antypec" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
